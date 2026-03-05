@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @imasllol
-- 👀 I’m interested in linux (terminal?)
-- 💞️ I’m looking to collaborate on ogyrec
-- 📫 How to reach me. Telegram @imasllol Discord @etoimasl Instagram @loliksimasl
+i’m interested in coding, mods, plugins, bot`s
+vs code one love
